@@ -1,4 +1,12 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4982&pause=1000&color=FF6F61&width=435&lines=Hi%2C+I+am+Sam+Morabito)](https://git.io/typing-svg)
+
+I am a computational biologist using genomics approaches to decipher human diseases. I am currently a PhD Candidate in the [lab of Dr. Vivek Swarup](https://swaruplab.bio.uci.edu/) at the University of California Irvine (UCI). You can learn more about me and my research at [my website](https://smorabit.github.io).
+
+<!--
+
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=smorabit)](https://github.com/smorabit/github-readme-stats)
+
+-->
 
 <!--
 **smorabit/smorabit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
