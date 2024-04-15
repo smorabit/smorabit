@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4982&pause=1000&color=FF6F61&width=435&lines=Hi%2C+I+am+Sam+Morabito)](https://git.io/typing-svg)
 
-I am a computational biologist using genomics approaches to decipher human diseases. I am currently a Postdoctoral Researcher in the [lab of Dr. Vivek Swarup](https://swaruplab.bio.uci.edu/) at the University of California Irvine (UCI). You can learn more about me and my research at [my website](https://smorabit.github.io).
+I am a computational biologist using genomics approaches to decipher human diseases. I am currently a Postdoctoral Researcher in the [Single Cell Genomics Group](https://www.cnag.eu/teams/genome-research-unit/single-cell-genomics-team) at the Centro Nacional de Análisis Genómico [(CNAG)](https://www.cnag.eu/) in Barcelona, Spain. Previously I did my PhD in the [lab of Dr. Vivek Swarup](https://swaruplab.bio.uci.edu/) at the University of California, Irvine (UCI). You can learn more about me and my research at [my website](https://smorabit.github.io).
 
 <!--
 
